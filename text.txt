@@ -1,2 +1,3 @@
 První řádek do souboru
 Zde je vytvořena druhá větev na testování merge
+pridan treti radek
