@@ -1,2 +1,5 @@
 První řádek do souboru
+Zde je vytvořena druhá větev na testování merge
 Zde je vytvořen řádek ve větvy master poté ce je na stejném řádku již vytvořen description ve větvy mergeTest
+pridan treti radek
+
